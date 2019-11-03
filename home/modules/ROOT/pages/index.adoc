@@ -1,3 +1,12 @@
 = Janiveer Documentation Toolkit
 
 This is a suite of documentation tools.
+
+PACBook::
+A suite of tools to perform linguistic pre-processing on documentation.
+
+Flecty::
+A project to create machine-readable morphosyntactic dictionaries.
+
+Vigenère::
+A Vigenère cypher library for XSLT.
