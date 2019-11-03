@@ -1,0 +1,1 @@
+(The choice of this format is not particularly significant; it’s just a handy, established XML format for storing key / value pairs.)
