@@ -1,3 +1,6 @@
 * xref:pacbook::index.adoc[PACBook]
 * xref:flecty::index.adoc[Flecty]
 * xref:vigenere::index.adoc[Vigenère]
+
+.Related Links
+* https://docs.antora.org/antora/2.2[Antora Documentation]
