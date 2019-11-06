@@ -1,0 +1,16 @@
+{
+  "name": "antora-demo",
+  "description": "Deep Dive into Antora",
+  "dependencies": {
+    "@antora/cli": "2.0.0",
+    "@antora/site-generator-default": "2.0.0",
+    "@antora/xref-validator": "git+https://gitlab.com/antora/xref-validator#v1.0.0-alpha.2",
+    "gulp": "~4.0",
+    "gulp-connect": "~5.7",
+    "js-yaml": "~3.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janiveer/antora-demo.git"
+  }
+}
